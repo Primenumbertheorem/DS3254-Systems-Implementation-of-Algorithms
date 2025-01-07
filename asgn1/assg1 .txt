@@ -1,0 +1,13 @@
+1.
+CPU-i5 11th gen
+Cores-4
+Hyperthreading - 8 threads
+Speed- 2.4 Ghz
+GPU- Nvidia MX450 and  Iris Xe Graphics
+Cache-8 MB Intel Smart Cache
+RAM-16gb
+Storage-512gb SSD
+Battery-57 Wh
+battery life-8hrs
+
+2.I would look for 3 most important things - latest processor like Ryzen9 series processor, enough RAM-32/64gb and a Nvidia 40 series GPU. And maybe enough storage:1 TB SSD
